@@ -4,7 +4,7 @@ Desenvolvedor Web com foco back-end com as tecnologias Python, JavaScript e PHP.
 
 <div>
 <div>
-    <img align="left" width="310px" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif">
+    <img align="left" width="310px" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 </div>
 
 <div style="margin-left: 350px;">
