@@ -2,13 +2,12 @@
 
 Desenvolvedor Web com foco back-end com as tecnologias Python, JavaScript e PHP. As vezes me arrisco em fazer uns layouts kkk. Entusiasta do mundo open-source e apaixonado por linux. Estou sempre em busca de aprimorar meus conhecimentos e repassar para outras pessoas.
 
-![](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
-
 <div>
 <div>
     <img align="left" width="310px" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif">
 </div>
 
+<!--
 <div style="margin-left: 350px;">
     <h4>Tecnologias:</h4>
     <ul style="list-style: none;">
@@ -49,3 +48,4 @@ Desenvolvedor Web com foco back-end com as tecnologias Python, JavaScript e PHP.
         </li>
     </ul>
 </div>
+-->
