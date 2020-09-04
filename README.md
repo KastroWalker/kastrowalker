@@ -2,7 +2,7 @@
 
 
 [![Twitch Badge](https://img.shields.io/badge/-twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kastr0walker)
-[![Twitter Badge](https://img.shields.io/badge/-linkedin-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter/kastrowalker)
+[![Twitter Badge](https://img.shields.io/badge/-linkedin-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kastrowalker)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kastrowalker/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006781810430)
 
