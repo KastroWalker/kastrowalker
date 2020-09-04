@@ -11,9 +11,7 @@
 Desenvolvedor Web com foco back-end com as tecnologias Python, JavaScript e PHP. As vezes me arrisco em fazer uns layouts kkk. Entusiasta do mundo open-source e apaixonado por linux. Estou sempre em busca de aprimorar meus conhecimentos e repassar para outras pessoas.
 </p>
 
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
 ---
 
@@ -33,8 +31,8 @@ Desenvolvedor Web com foco back-end com as tecnologias Python, JavaScript e PHP.
 
 ![React Badge](https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/-Node-%23339933?logo=node.js&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/-linux-%23FCC624?logo=linux&logoColor=white)
-![Cypress Badge](https://img.shields.io/badge/-cypress-%2317202C?logo=cypress&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/-Linux-%23FCC624?logo=linux&logoColor=white)
+![Cypress Badge](https://img.shields.io/badge/-Cypress-%2317202C?logo=cypress&logoColor=white)
 ![Codeigniter Badge](https://img.shields.io/badge/-Codeigniter-%23EE4623?logo=codeigniter&logoColor=white)
 ![GIT Badge](https://img.shields.io/badge/-GIT-%23F05032?logo=git&logoColor=white)
 
