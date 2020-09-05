@@ -21,8 +21,8 @@ Desenvolvedor Web com foco back-end com as tecnologias Python, JavaScript e PHP.
 
 <div>
 
-![PHP Badge](https://img.shields.io/badge/-php-%23777BB4?logo=php&logoColor=white)
-![Python Badge](https://img.shields.io/badge/-python-%233776AB?logo=python&logoColor=white)
+![PHP Badge](https://img.shields.io/badge/-PHP-%23777BB4?logo=php&logoColor=white)
+![Python Badge](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/-HTML-%23E34F26?logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-%231572B6?logo=css3&logoColor=white)
@@ -35,6 +35,7 @@ Desenvolvedor Web com foco back-end com as tecnologias Python, JavaScript e PHP.
 ![Cypress Badge](https://img.shields.io/badge/-Cypress-%2317202C?logo=cypress&logoColor=white)
 ![Codeigniter Badge](https://img.shields.io/badge/-Codeigniter-%23EE4623?logo=codeigniter&logoColor=white)
 ![GIT Badge](https://img.shields.io/badge/-GIT-%23F05032?logo=git&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-%23563D7C?logo=bootstrap&logoColor=white)
 
 </div>
 
