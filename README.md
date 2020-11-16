@@ -29,6 +29,7 @@ Desenvolvedor Web com foco back-end com as tecnologias Python, JavaScript e PHP.
 ![MySql Badge](https://img.shields.io/badge/-MySql-%234479A1?logo=mysql&logoColor=white)
 
 
+![Vue Badge](https://img.shields.io/badge/-Vue-%234FC08D?logo=vue.js&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/-Node-%23339933?logo=node.js&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-%23FCC624?logo=linux&logoColor=white)
